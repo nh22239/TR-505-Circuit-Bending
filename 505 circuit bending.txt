@@ -11,19 +11,3 @@ pitch mod - R39, place 1k pot across
 
 IC1 RAM chip - CAREFUL, stuttering, connect any IC1 pin to IC3 pins, patch bay?
 
-
-
-add to git
-=======
-R82 - distortion in whole mix, 2.2k in parallel
-IC6,7,8 - crazy drum sound bends, patchbay? test them
-IC14 - distort individual drums by connecting pin 16 (Vcc, be careful)
-
-Body contact - R46 to IC11 pins 2, 5, 7, 9, 10, 24, 23, 21, 19
-
-Individual outputs - C28-C35 potentiometer across the existing resistors
-
-pitch mod - R39, place 1k pot across
-
-IC1 RAM chip - CAREFUL, stuttering, connect any IC1 pin to IC3 pins, patch bay?
->>>>>>> 6dce6edfefaa660dd70ac7f7fc2816bc260530cf
