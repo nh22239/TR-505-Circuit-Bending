@@ -11,3 +11,4 @@ pitch mod - R39, place 1k pot across
 
 IC1 RAM chip - CAREFUL, stuttering, connect any IC1 pin to IC3 pins, patch bay?
 
+sdffsdsd
