@@ -14,3 +14,4 @@ pitch mod - R39, place 1k pot across
 sequencer glitches - IC1 RAM chip - CAREFUL, stuttering, connect any IC1 pin to IC3 pins, patch bay?
 
 individual pitch controls - 40106 hex inverter clock to IC9
+
